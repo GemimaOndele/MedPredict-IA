@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projet MedPredict-IA
 
 Maintenance Prédictive des Équipements Médicaux 
@@ -111,3 +112,6 @@ https://www.etudes-et-analyses.com/theme-economique/big+data
 
 https://www.kaggle.com/code/datacog314/tutorial-machine-learning-interpretability 
 
+=======
+# MedPredict-IA
+>>>>>>> origin/main
