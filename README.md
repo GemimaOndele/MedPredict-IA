@@ -7,7 +7,7 @@ Sujet : Utilisation de l'IA pour prédire les pannes et optimiser la maintenan
 
 Problématique : Comment l'IA peut-elle réduire les temps d'arrêt et les coûts de maintenance des équipements médicaux ?  
 
-Documents à collecter : Données de capteurs des équipements, historiques de maintenance, rapports de pannes, se rapprocher aussi du papa de gémima(qui est médecin) si nécessaire. 
+Documents à collecter : Données de capteurs des équipements, historiques de maintenance, rapports de pannes, se rapprocher aussi de ses proches et connaissances dans le domaines  si nécessaire. 
 
  
 
