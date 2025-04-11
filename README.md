@@ -116,4 +116,4 @@ https://www.kaggle.com/code/datacog314/tutorial-machine-learning-interpretabilit
 # MedPredict-IA
 >>>>>>> origin/main
 >>>>>>
->>>>>> Ce projet a été réalisé par @Hadrien LENNON, @Gemima ONDELE POUROU.
+>>>>>> Ce projet a été réalisé par **@Hadrien LENNON, @Gemima ONDELE POUROU.**
